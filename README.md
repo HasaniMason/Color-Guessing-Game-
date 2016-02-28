@@ -1,2 +1,2 @@
 # Color-Guessing-Game-
-Game
+Created in JavaScript with Sublime text editor.
